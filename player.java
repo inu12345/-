@@ -1,4 +1,3 @@
-# -
 public class Player
 {
 	static String name = "ああああ";
